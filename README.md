@@ -1,2 +1,2 @@
-# resume
-Latest Resume
+# Resume
+Latest Resume, and other relevant documents
